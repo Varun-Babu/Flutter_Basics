@@ -70,7 +70,7 @@ void main() {
         )),
             Padding(padding: EdgeInsets.all(15),
             child: Row(
-              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
                 Column(
                   children: [
